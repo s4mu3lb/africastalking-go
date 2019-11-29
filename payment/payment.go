@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/AndroidStudyOpenSource/africastalking-go/util"
+	"github.com/s4mu3lb/africastalking-go/util"
 )
 
 // Service is a service

@@ -1,15 +1,15 @@
 package token
 
 import (
-	"net/url"
-	"strings"
-	"net/http"
-	"time"
-	"fmt"
-	"encoding/json"
-	"strconv"
 	"bytes"
-	"github.com/AndroidStudyOpenSource/africastalking-go/util"
+	"encoding/json"
+	"fmt"
+	"github.com/s4mu3lb/africastalking-go/util"
+	"net/http"
+	"net/url"
+	"strconv"
+	"strings"
+	"time"
 )
 
 // CheckoutTokenResponse is the response from a create checkout token request

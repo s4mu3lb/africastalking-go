@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/AndroidStudyOpenSource/africastalking-go/util"
+	"github.com/s4mu3lb/africastalking-go/util"
 )
 
 // Response is a model

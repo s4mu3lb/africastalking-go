@@ -17,7 +17,7 @@ jobs:
     #### expecting it in the form of
     ####   /go/src/github.com/circleci/go-tool
     ####   /go/src/bitbucket.org/circleci/go-tool
-    working_directory: /go/src/github.com/AndroidStudyOpenSource/africastalking-go
+    working_directory: /go/src/github.com/s4mu3lb/africastalking-go"
     steps:
       - checkout
 
